@@ -12,7 +12,7 @@
 - 💬 Ask me about tecnology
 - 📫 How to reach me: by facebook
 - ⚡ Fun fact: ...Aparte de la programacion, amo la costura
-
+## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
