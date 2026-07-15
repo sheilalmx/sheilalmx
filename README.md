@@ -13,9 +13,10 @@
 - 📫 How to reach me: by facebook
 - ⚡ Fun fact: ...Aparte de la programacion, amo la costura
 
-### Vias de contacto
-### Hay de Nuevo
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
+### Hay de Nuevo
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sheilalmx/sheilalmx)
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.eldelicias.com)
