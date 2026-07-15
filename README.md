@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**sheilalmx/sheilalmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de software con especialidad en Programacion**
+:pencil: **Actualizandome en Platzi**
+:eyeglasses: **Y mejorando cada dia**
+:oncoming_automobile: **Tengo un jetta rojo mi compañero y mi oficina**
+:family: **Mamá de dos mujercitas**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Restaurente
+- 🌱 I’m currently learning GitHub
+- 💬 Ask me about tecnology
+- 📫 How to reach me: by facebook
+- ⚡ Fun fact: ...Aparte de la programacion, amo la costura
+
+### Vias de contacto
+### Hay de Nuevo
+![Website](https://img.shields.io/website?url=https%3A%2F%2Feldelicias.com%2F)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sheilalmx/sheilalmx)
