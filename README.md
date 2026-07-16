@@ -15,6 +15,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1](https://github.com/sheilalmx/miCuartoRepo/issues/1) in [sheilalmx/miCuartoRepo](https://github.com/sheilalmx/miCuartoRepo)
+2. ❗ Opened issue [#1](https://github.com/sheilalmx/miCuartoRepo/issues/1) in [sheilalmx/miCuartoRepo](https://github.com/sheilalmx/miCuartoRepo)
 <!--END_SECTION:activity-->
 ### Hay de Nuevo
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sheilalmx/sheilalmx)
