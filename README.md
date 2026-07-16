@@ -13,7 +13,7 @@
 - 📫 How to reach me: by facebook
 - ⚡ Fun fact: ...Aparte de la programacion, amo la costura
 
-### Mi Actividad reciente en GitHub
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 ### Hay de Nuevo
