@@ -12,10 +12,10 @@
 - 💬 Ask me about tecnology
 - 📫 How to reach me: by facebook
 - ⚡ Fun fact: ...Aparte de la programacion, amo la costura
-## :zap: Actividad Reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
 
+### Mi Actividad reciente en GitHub
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ### Hay de Nuevo
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sheilalmx/sheilalmx)
 
